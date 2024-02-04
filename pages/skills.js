@@ -65,7 +65,7 @@ import { Container, Heading, Image, List } from "@chakra-ui/react";
                 </Heading>
                 <List>
                   <Image pr={4} src="https://img.icons8.com/nolan/64/mongo-db.png" alt="MongoDB"/>  
-                  <Progress colorScheme='blue' size='sm' value={80} />
+                  <Progress colorScheme='orange' size='sm' value={80} />
                 </List> 
                 <List>
                   <Image pr={4} src="https://img.icons8.com/color/48/000000/mysql--v1.png" alt="mysql"/>
