@@ -27,8 +27,8 @@ const Home = () => (
             Myself, Soham Dey aka Arko.
             Currently, I&apos;m working as a MERN Stack Developer in Capgemini. 
             I intend to build a career with an organization, committed and dedicated people who will help me to explore my full potential and attend growth and establishment.
-            Motivated by continuous learning, I'm on a journey to merge the best of Salesforce and MERN 
-            technologies to create innovative solutions. Let's connect and explore the world of possibilities together! 
+            Motivated by continuous learning, I&apos;m on a journey to merge the best of Salesforce and MERN 
+            technologies to create innovative solutions. Let&apos;s connect and explore the world of possibilities together! 
             Apart from my profession, I&apos;m a Writer and Cinephile. 
             I&apos;m a content creator in YouTube which is about my audio stories, vlogs, documentaries, short films.
         </Paragraph>
