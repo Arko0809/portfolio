@@ -24,13 +24,13 @@ const Home = () => (
           About
         </Heading>
         <Paragraph>
-            Myself, Soham Dey aka Arko.
-            Currently, I&apos;m working as a MERN Stack Developer in Capgemini. 
-            I intend to build a career with an organization, committed and dedicated people who will help me to explore my full potential and attend growth and establishment.
-            Motivated by continuous learning, I&apos;m on a journey to merge the best of Salesforce and MERN 
-            technologies to create innovative solutions. Let&apos;s connect and explore the world of possibilities together! 
-            Apart from my profession, I&apos;m a Writer and Cinephile. 
-            I&apos;m a content creator in YouTube which is about my audio stories, vlogs, documentaries, short films.
+            My name is Soham Dey, also known as Arko. I am currently employed as a MERN Stack Developer at Capgemini. 
+            My professional journey is driven by a passion for continuous learning and a desire to explore my full potential. 
+            I am committed to contributing to an organization that values dedication, innovation, and growth.
+            In addition to my technical expertise, I am an avid Writer and Cinephile. 
+            On my YouTube channel, I create engaging content such as audio stories, vlogs, documentaries, and short films. 
+            I believe that connecting with like-minded individuals opens up a world of possibilities, and I look forward to exploring these opportunities together.
+            Feel free to reach out, and let’s embark on this exciting journey!
         </Paragraph>
         <Box align="center" my={4}>
               <Link href="https://drive.google.com/file/d/1prilVsNyARIpVyJYocLalxL6_bvKQDWJ/view?usp=sharing" target="_blank">
